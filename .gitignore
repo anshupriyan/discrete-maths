@@ -1,0 +1,8 @@
+# Ignore heavy textbook PDF files
+Resources/*.pdf
+*.pdf
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
