@@ -66,6 +66,9 @@ Below is the mapping of your created sequentially structured study notes corresp
 * **Section 9.1.5**: [[24. Combining Relations]] - Combining relations via set operations (union, intersection, difference), sequential compositions ($S \circ R$), and relational powers ($R^n$).
 * **Sections 9.3 - 9.3.2**: [[25. Representing Relations]] - Representing relations on finite sets using zero-one matrices and evaluating properties through matrix symmetry and diagonals.
 * **Section 9.3.3**: [[26. Representing Relations Using Digraphs]] - Visualizing binary relations on finite sets using directed graphs (digraphs) and analyzing relation properties visually.
+* **Sections 9.4 - 9.4.4**: [[27. Closures of Relations]] - Introduction to relational closures (reflexive, symmetric, and transitive), paths, and matrix-based path counting.
+* **Sections 9.5 - 9.5.2**: [[28. Equivalence Relations]] - Introduction to equivalence relations, properties (reflexivity, symmetry, transitivity), testing relations, and analysis of string length and divisibility examples.
+* **Sections 9.6 - 9.6.3**: [[29. Partial Orderings]] - Introduction to partial orderings (posets), properties (reflexivity, antisymmetry, transitivity), divides/greater-than posets, lexicographic ordering, Hasse diagrams, minimal/maximal elements, and visual trace exercises.
 
 ---
 

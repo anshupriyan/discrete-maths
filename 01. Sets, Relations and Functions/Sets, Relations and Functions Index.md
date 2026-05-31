@@ -30,8 +30,9 @@ Use this checklist to track your understanding of each topic. Mark items with `[
 - [ ] **Properties of Relations**: Reflexive vs. irreflexive, symmetric vs. antisymmetric, and transitive relations with logical and graphical checks — [[23. Properties of Relations|Properties of Relations Note]]
 - [ ] **Combining Relations**: Set operations on relations (union, intersection, difference), relational composition ($S \circ R$), and relational powers ($R^n$) — [[24. Combining Relations|Combining Relations Note]]
 - [ ] **Representing Relations**: Zero-one matrices ($M_R$), rows/columns mappings, and determining properties (reflexive, symmetric) via matrix structures — [[25. Representing Relations|Representing Relations Note]] \| [[26. Representing Relations Using Digraphs|Digraphs Note]]
-- [ ] **Equivalence Relations**: Definition (reflexive, symmetric, transitive), equivalence classes, and partitions.
-- [ ] **Partial Orderings (Posets)**: Definition (reflexive, antisymmetric, transitive), Hasse diagrams, maximal/minimal elements, upper/lower bounds.
+- [ ] **Closures of Relations**: Reflexive, symmetric, and transitive closures, mathematical formulas, and the path perspective — [[27. Closures of Relations|Closures Note]]
+- [ ] **Equivalence Relations**: Definition (reflexive, symmetric, transitive), equivalence classes, and partitions — [[28. Equivalence Relations|Equivalence Relations Note]]
+- [ ] **Partial Orderings (Posets)**: Definition (reflexive, antisymmetric, transitive), Hasse diagrams, maximal/minimal elements, upper/lower bounds — [[29. Partial Orderings|Partial Orderings Note]]
 
 ### 🟨 3. Functions
 - [ ] **Definition**: Domain, codomain, range, image, and preimage — [[10. Introduction to Functions|Introduction to Functions Note]]
@@ -94,6 +95,9 @@ For $f: A \to B$ and $g: B \to C$, the composition is $g \circ f: A \to C$.
 - [[24. Combining Relations]] — Section 9.1.5: Study of set-theoretic combinations of relations, relational composition rules, pathfinding representations, and relational powers.
 - [[25. Representing Relations]] — Section 9.3: Representing relations on finite sets using zero-one matrices, matrix constructions, and evaluating reflexivity and symmetry via matrix structures.
 - [[26. Representing Relations Using Digraphs]] — Section 9.3.3: Visualizing binary relations on finite sets using directed graphs (digraphs), examining relation properties visually, and solving textbook examples and exercises.
+- [[27. Closures of Relations]] — Sections 9.4 - 9.4.4: Introduction to relational closures (reflexive, symmetric, and transitive), mathematical formulas, path perspectives in directed graphs, and textbook exercises.
+- [[28. Equivalence Relations]] — Sections 9.5 - 9.5.2: Introduction to equivalence relations, properties (reflexivity, symmetry, transitivity), testing relations, and analysis of string length and divisibility examples.
+- [[29. Partial Orderings]] — Sections 9.6 - 9.6.3: Introduction to partial orderings (posets), properties (reflexivity, antisymmetry, transitivity), divides/greater-than posets, lexicographic ordering, Hasse diagrams, minimal/maximal elements, and visual trace exercises.
 
 ---
 
