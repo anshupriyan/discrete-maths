@@ -18,6 +18,12 @@ Welcome to your study resources hub. This directory is reserved for textbooks, P
 | :--- | :--- | :--- | :--- | :--- |
 | **[[RosenDiscreteMath8Ed.pdf]]** | PDF Textbook | All Chapters | 📖 Reference | Kenneth H. Rosen's *Discrete Mathematics and its Applications, 8th Edition*. See: [[RosenDiscreteMath8Ed - Index\|Study Index Note]]. |
 | **[[RosenDiscreteMath8Ed Extract[144-153,156-189,195-199,602-606,622-631,644-647,651-657,661-664,673-679].pdf\|RosenDiscreteMath8Ed Extract[...].pdf]]** | PDF Chapter Extract | Unit 1 (Sets), Unit 5 (Graphs), Unit 6 (Recurrences) | 🎯 Core Syllabus | Specific syllabus pages extracted from the Rosen 8th Edition textbook. See: [[RosenDiscreteMath8Ed Extract[144-153,156-189,195-199,602-606,622-631,644-647,651-657,661-664,673-679] - Index\|Study Index Note]]. |
+| **[[RosenDiscreteMath8Ed Extract[24-56,63-69,96-102,107-118,354-366]chapter 2.pdf]]** | PDF Chapter Extract | Chapter 02 (Logic and Proofs) | 🎯 Core Syllabus | Targeted syllabus pages covering propositional logic, predicates, quantifiers, and rules of inference from Rosen 8th Edition. See: [[RosenDiscreteMath8Ed Extract[24-56,63-69,96-102,107-118,354-366]chapter 2 - Index\|Study Index Note]]. |
+| **[[numbertheory.pdf]]** | PDF Chapter Extract | Chapter 03 (Number Theory) | 🎯 Core Syllabus | Specific syllabus pages covering elementary and advanced number theory. See: [[numbertheory - Index\|Study Index Note]]. |
+| **[[combi.pdf]]** | PDF Chapter Extract | Chapter 04 (Combinatorics) | 🎯 Core Syllabus | Syllabus pages covering basic counting rules, permutations, and combinations. See: [[combi - Index\|Study Index Note]]. |
+| **[[graph and trees.pdf]]** | PDF Chapter Extract | Chapter 05 (Graphs and Trees) | 🎯 Core Syllabus | Specific syllabus pages covering graph theory, connectivity, planar graphs, coloring, and trees. See: [[graph and trees - Index\|Study Index Note]]. |
+| **[[pdfcoffee.com_elements-of-discrete-mathematics-liu-c-l--pdf-free [58-65].pdf]]** | PDF Chapter Extract | Chapter 01 (Sets, Relations and Functions) | 🎯 Core Syllabus | Extract from C. L. Liu's *Elements of Discrete Mathematics* (pages 58-65). See: [[pdfcoffee.com_elements-of-discrete-mathematics-liu-c-l--pdf-free [58-65] - Index\|Study Index Note]]. |
+| **Elements of Discrete Mathematics** (C. L. Liu & D. P. Mohapatra, 4th Ed, 2017) | Textbook | Chapter 06 (Recurrences) | 📖 Reference | Tata McGraw Hill, 4th edition. Core textbook reference for Discrete Numeric Functions and Recurrence Relations. |
 
 ---
 

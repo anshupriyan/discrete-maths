@@ -20,10 +20,10 @@ Below is the outline of your discrete mathematics curriculum. Each chapter conta
 | :--- | :--- | :--- | :--- |
 | **01** | Sets, Relations and Functions | 🔄 In Progress | [[Sets, Relations and Functions Index\|Chapter Index]] |
 | **02** | Logic and Proofs | ⏳ Not Started | [[Logic and Proofs Index\|Chapter Index]] |
-| **03** | Number Theory | ⏳ Not Started | [[Number Theory Index\|Chapter Index]] |
-| **04** | Combinatorics | ⏳ Not Started | [[Combinatorics Index\|Chapter Index]] |
-| **05** | Graphs and Trees | ⏳ Not Started | [[Graphs and Trees Index\|Chapter Index]] |
-| **06** | Recurrences | ⏳ Not Started | [[Recurrences Index\|Chapter Index]] |
+| **03** | Number Theory | 🔄 In Progress | [[Number Theory Index\|Chapter Index]] |
+| **04** | Combinatorics | 🔄 In Progress | [[Combinatorics Index\|Chapter Index]] |
+| **05** | Graphs and Trees | ✅ Completed | [[Graphs and Trees Index\|Chapter Index]] |
+| **06** | Recurrences | ✅ Completed | [[Recurrences Index\|Chapter Index]] |
 
 ---
 

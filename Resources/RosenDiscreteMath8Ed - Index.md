@@ -70,6 +70,18 @@ Below is the mapping of your created sequentially structured study notes corresp
 * **Sections 9.5 - 9.5.2**: [[28. Equivalence Relations]] - Introduction to equivalence relations, properties (reflexivity, symmetry, transitivity), testing relations, and analysis of string length and divisibility examples.
 * **Sections 9.6 - 9.6.3**: [[29. Partial Orderings]] - Introduction to partial orderings (posets), properties (reflexivity, antisymmetry, transitivity), divides/greater-than posets, lexicographic ordering, Hasse diagrams, minimal/maximal elements, and visual trace exercises.
 
+### Chapter 10 & 11: Graphs and Trees
+* **Sections 10.1 - 10.2**: [[01. Introduction to Graphs]] - Graph models, basic terminology, vertex degrees, Handshaking Lemma, and special families of simple graphs.
+* **Section 10.3**: [[02. Graph Representations and Isomorphism]] - Adjacency lists, adjacency matrices, incidence matrices, and graph isomorphism.
+* **Section 10.4**: [[03. Connectivity and Paths]] - Paths, circuits, connectedness (undirected/directed), cut vertices, bridges, path-isomorphism invariants, and path counting using $A^r$.
+* **Section 10.5**: [[04. Euler and Hamilton Paths]] - Euler paths/circuits, Hamilton paths/circuits, Dirac's and Ore's Theorems, TSP, and Gray codes.
+* **Section 10.6.1**: [[05. Shortest-Path Problems and Dijkstra]] - Shortest-path problems on weighted graphs and Dijkstra's algorithm.
+* **Sections 10.7.1 - 10.7.2**: [[06. Planar Graphs]] - Planar graphs, Euler's formula with proofs of corollaries, nonplanarity of $K_5$ and $K_{3,3}$, and Kuratowski's Theorem.
+* **Sections 11.1.1 & 11.1.3**: [[07. Introduction to Trees and Properties]] - Introduction to trees/forests, unique path theorem, and the tree edge theorem ($E = V - 1$) with mathematical induction proof.
+
+### Chapter 8: Advanced Counting Techniques
+* **Sections 8.1 - 8.2**: [[03. Recurrence Relations and Modeling]], [[04. Solving Homogeneous Linear Recurrences]], and [[05. Solving Non-Homogeneous Linear Recurrences]] - Recurrence relations modeling and solving linear homogeneous/non-homogeneous recurrences.
+
 ---
 
 ## Related Links

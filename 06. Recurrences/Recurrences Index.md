@@ -14,50 +14,49 @@ This chapter examines recurrence relations—equations that recursively define s
 
 ## 🗺️ Learning Roadmap & Syllabus Checklist
 
-Use this checklist to track your understanding of each topic. Mark items with `[x]` as you master them!
+Use this checklist to track your understanding of each topic. All topics listed below correspond to Chapters 9 and 10 of Liu & Mohapatra's *Elements of Discrete Mathematics*!
 
-### 🟩 1. Introduction & Modeling
-- [ ] **Definition**: Recurrence relation, initial conditions.
-- [ ] **Modeling Problems**: 
-  - Fibonacci numbers sequence
-  - Towers of Hanoi
-  - Counting bit strings without consecutive 0s
-  - Compound interest
+### 🟩 1. Discrete Numeric Functions
+- [x] **Definition & Notation**: [[01. Introduction to Discrete Numeric Functions|Real-valued functions with domain \mathbb{N}_0, notation a_n or a(n)]].
+- [x] **Basic Operations**: [[02. Operations on Numeric Functions|Addition, product, and scalar multiplication of numeric functions]].
+- [x] **Shift Operators**: [[02. Operations on Numeric Functions|Forward shift (delay) S^k and backward shift (advance) S^{-k}]].
+- [x] **Difference Operators**: [[02. Operations on Numeric Functions|Forward difference \Delta and backward difference \nabla]].
+- [x] **Accumulated Sums**: [[02. Operations on Numeric Functions|Accumulated sums of numeric functions]].
+- [x] **Convolution**: [[02. Operations on Numeric Functions|Convolution product (a * b) definition and properties]].
 
-### 🟦 2. Solving Recurrence Relations
-- [ ] **Linear Homogeneous Recurrences**:
-  - Degree 1 & 2 definitions.
-  - **Characteristic Equation**: Finding roots ($r^2 - c_1 r - c_2 = 0$).
-  - **Distinct Roots Case**: $a_n = \alpha_1 r_1^n + \alpha_2 r_2^n$.
-  - **Repeated Roots Case**: $a_n = (\alpha_1 + \alpha_2 n) r_1^n$.
-- [ ] **Linear Non-Homogeneous Recurrences**:
-  - Expressed as $a_n = a_n^{(h)} + a_n^{(p)}$ (homogeneous + particular solutions).
-  - Guessing particular solutions based on the forcing function $F(n)$ (polynomials, exponentials).
+### 🟦 2. Recurrence Relations & Modeling
+- [x] **Definition**: [[03. Recurrence Relations and Modeling|Recurrence relations, order, degree, linear vs. non-linear, and initial conditions]].
+- [x] **Modeling Problems**: [[03. Recurrence Relations and Modeling|Fibonacci numbers, Towers of Hanoi, counting bit strings, and compound interest]].
 
-### 🟨 3. Divide-and-Conquer Recurrences
-- [ ] **Definition**: Recurrences of the form $T(n) = a T(n/b) + f(n)$.
-- [ ] **The Master Theorem**: A highly useful method to find asymptotic bounds ($O$-notation) for divide-and-conquer recurrences.
-- [ ] **Applications**: Analyzing Merge Sort ($T(n) = 2 T(n/2) + O(n)$), Binary Search ($T(n) = T(n/2) + O(1)$).
-- [ ] **Generating Functions** *(Advanced topic)*: Using power series to solve recurrences.
+### 🟪 3. Solving Linear Recurrence Relations
+- [x] **Homogeneous Linear Recurrences**: [[04. Solving Homogeneous Linear Recurrences|Solving homogeneous recurrence relations with constant coefficients, characteristic equation, distinct and repeated roots]].
+- [x] **Non-Homogeneous Linear Recurrences**: [[05. Solving Non-Homogeneous Linear Recurrences|General solution structure (homogeneous + particular) and finding particular solutions using the method of undetermined coefficients]].
 
 ---
 
-## 🔑 Core Theorems Quick-Reference
+## 🔑 Core Formulas & Definitions Quick-Reference
 
-### Master Theorem
-For $T(n) = a T(n/b) + f(n)$ where $a \ge 1, b > 1$ and $f(n) = \Theta(n^d)$ with $d \ge 0$:
-1. If $d < \log_b a$, then $T(n) = \Theta(n^{\log_b a})$
-2. If $d = \log_b a$, then $T(n) = \Theta(n^d \log n)$
-3. If $d > \log_b a$, then $T(n) = \Theta(n^d)$
+### Shift Operators
+* **Forward Shift (Delay):**
+  $$S^k a(n) = \begin{cases} 0 & \text{if } 0 \le n < k \\ a(n - k) & \text{if } n \ge k \end{cases}$$
+* **Backward Shift (Advance):**
+  $$S^{-k} a(n) = a(n + k), \quad n \ge 0$$
 
-### Characteristic Equation (Degree 2)
-For $a_n = c_1 a_{n-1} + c_2 a_{n-2}$, solve:
-$$r^2 - c_1 r - c_2 = 0$$
+### Convolution
+$$(a * b)(n) = \sum_{i=0}^{n} a(i) b(n - i)$$
+
+### Linear Recurrence with Constant Coefficients (Degree $k$)
+$$c_0 a_n + c_1 a_{n-1} + \dots + c_k a_{n-k} = f(n)$$
+* Homogeneous if $f(n) = 0$; Non-homogeneous if $f(n) \ne 0$.
 
 ---
 
-## 📝 Study Notes & Exercises
-*Add your personal notes, examples, and solved problems here!*
+## 📝 Study Notes
+- [[01. Introduction to Discrete Numeric Functions]] — Definition of discrete numeric functions, graphing, and standard examples.
+- [[02. Operations on Numeric Functions]] — Addition, product, scalar product, forward/backward shift operators, difference operators, accumulated sums, and convolution.
+- [[03. Recurrence Relations and Modeling]] — Definitions of recurrence relations, order/degree, initial conditions, and modeling classic sequences.
+- [[04. Solving Homogeneous Linear Recurrences]] — Derivation of characteristic equations, distinct roots case, repeated roots case, and step-by-step solved examples.
+- [[05. Solving Non-Homogeneous Linear Recurrences]] — Solving non-homogeneous linear recurrences using the method of undetermined coefficients for polynomial and exponential forcing functions.
 
 ---
 

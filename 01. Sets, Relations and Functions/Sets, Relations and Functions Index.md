@@ -52,6 +52,10 @@ Use this checklist to track your understanding of each topic. Mark items with `[
 - [ ] **Summations**: Sigma notation ($\sum$), limits of summation, index shifting, key summation formulas, and double summations — [[18. Summations|Summations Note]]
 - [ ] **Principle of Inclusion-Exclusion**: Overlapping union cardinality for 2, 3, and n sets, alternating sum expansion, and Venn diagrams — [[19. The Principle of Inclusion-Exclusion|Inclusion-Exclusion Note]]
 
+### 🟪 5. Computability and Formal Languages
+- [ ] **Russell's Paradox**: [[30. Russells Paradox and Noncomputability|Bertrand Russell's set-builder paradox, self-referential contradictions, and the Halting Problem]].
+- [ ] **Formal Languages**: [[31. Formal Languages and the Kleene Star|Alphabets, strings as n-tuples, Kleene Star ($A^*$), languages as subsets, and operations on languages]].
+
 ---
 
 ## 🔑 Core Formulas & Definitions Quick-Reference
@@ -98,6 +102,8 @@ For $f: A \to B$ and $g: B \to C$, the composition is $g \circ f: A \to C$.
 - [[27. Closures of Relations]] — Sections 9.4 - 9.4.4: Introduction to relational closures (reflexive, symmetric, and transitive), mathematical formulas, path perspectives in directed graphs, and textbook exercises.
 - [[28. Equivalence Relations]] — Sections 9.5 - 9.5.2: Introduction to equivalence relations, properties (reflexivity, symmetry, transitivity), testing relations, and analysis of string length and divisibility examples.
 - [[29. Partial Orderings]] — Sections 9.6 - 9.6.3: Introduction to partial orderings (posets), properties (reflexivity, antisymmetry, transitivity), divides/greater-than posets, lexicographic ordering, Hasse diagrams, minimal/maximal elements, and visual trace exercises.
+- [[30. Russells Paradox and Noncomputability]] — C. L. Liu Sections 2.1 - 2.2: Understanding Bertrand Russell's set paradox, naive set theory contradictions, self-reference, and its connection to computer science and the Halting Problem.
+- [[31. Formal Languages and the Kleene Star]] — C. L. Liu Section 2.4: Introduction to formal alphabets, words, the Kleene Star operation ($A^*$), defining languages as subsets, and applying set operations to languages.
 
 ---
 
