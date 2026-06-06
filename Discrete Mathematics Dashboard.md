@@ -40,6 +40,14 @@ Below is the outline of your discrete mathematics curriculum. Each chapter conta
 ### 📚 Course Resources
 - [[Resources Index|Discrete Mathematics Reference & Resources Index]]
 
+### 📝 Solved Exercises & Exam Prep
+- **[[00. Exam Concepts and Formulas Reference Sheet|Exam Concepts and Formulas Reference Sheet (Master Reference)]]**
+- [[01. Solved Semester Exam Questions|01. Solved Semester Exam Questions (Semester II Exam Paper)]]
+- [[02. Solved Semester Exam Questions|02. Solved Semester Exam Questions (Semester II Exam Paper - Q.5796)]]
+- [[03. Solved Semester Exam Questions|03. Solved Semester Exam Questions (Semester II Exam Paper - Q.1812)]]
+- [[04. Solved Semester Exam Questions|04. Solved Semester Exam Questions (Semester II Exam Paper - Q.6511)]]
+- [[05. Solved Semester Exam Questions|05. Solved Semester Exam Questions (Semester III Exam Paper - Q.1440)]]
+
 ### Study Tracker & Log
 Create a daily or session-based entry here when studying to keep a log of what you accomplished!
 
